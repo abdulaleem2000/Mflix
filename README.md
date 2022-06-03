@@ -1,6 +1,6 @@
 #   Mflix
 
-A new Flutter project.
+This appliction is used to see details of upcoming movies and watch their trailers.
 
 ## Getting Started
 
